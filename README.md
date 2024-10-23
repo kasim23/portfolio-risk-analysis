@@ -99,9 +99,11 @@ To run the project locally:
    ```bash
    git clone https://github.com/your_username/portfolio-risk-analysis.git
    cd portfolio-risk-analysis
-2. ** Install dependencies
+2. ** Install dependencies**:
+    ```bash
     pip install -r requirements.txt
-3. ** Run the main script
+3. ** Run the main script**:
+    ```bash
     python main.py
 
 This will:
